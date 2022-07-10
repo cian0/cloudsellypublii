@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cian0.github.io/cloudsellypublii/sitemap.xml
